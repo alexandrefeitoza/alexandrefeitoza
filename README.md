@@ -10,8 +10,8 @@
   
    ### 📊 Estatísticas   
 <div>
-   <img height="180em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=alexandrefeitoza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefeitoza&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=alexandrefeitoza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefeitoza&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
